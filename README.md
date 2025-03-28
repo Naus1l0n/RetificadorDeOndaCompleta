@@ -50,4 +50,9 @@ O transformador reduz a tensão AC da rede.
 4.	Regulação (Opcional): Caso esteja presente um regulador de tensão, ele ajusta e estabiliza a tensão para um valor fixo. No cenário, o circuito apresenta uma tensão estável de 7,5V, indicando que os componentes estão funcionando como esperado.
 5.	Protoboard e Medição: A montagem em protoboard facilita a montagem, testes e ajustes do circuito. O multímetro digital, configurado para medir tensão DC, exibe 7,5V, confirmando a eficácia da transformação, retificação, filtragem.
 
- 
+
+![image](https://github.com/user-attachments/assets/30be08b5-66a4-4829-b8eb-885673b2a07e)
+
+--------------------------------
+
+![image](https://github.com/user-attachments/assets/8d3448e2-3fd0-4c0f-bc82-2073a854151d)
